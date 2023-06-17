@@ -3,7 +3,22 @@ body{
 
 }
 
+h1{
+    font-style: italic;
+    border: 3px solid red;
+    letter-spacing: 2px;
+}
+
 div{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: normal;
+    font-size: 15px;
+    letter-spacing: 3px;
+    padding: 25px 150px 75px 100px;
+    
+}
+
+p{
+    font-size:20px;
+    border: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
